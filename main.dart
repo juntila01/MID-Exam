@@ -41,7 +41,7 @@ class FirstRoute extends StatelessWidget {
                 ),
               ),
               SizedBox(height: 20),
-              Text('G R C',
+              Text('Global Reciprocal Colleges',
                 style: TextStyle(
                   fontSize: 30,
                   fontWeight: FontWeight.bold,
@@ -157,7 +157,7 @@ class SecondRoute extends StatelessWidget {
                 ),
               ),
               SizedBox(height: 20),
-              Text('CCS',
+              Text('College of Computer Studies',
                 style: TextStyle(
                   fontSize: 30,
                   fontWeight: FontWeight.bold,
@@ -312,7 +312,7 @@ class ThirdRoute extends StatelessWidget {
                 ),
               ),
               SizedBox(height: 20),
-              Text('COA',
+              Text('College of Accountancy',
                 style: TextStyle(
                   fontSize: 30,
                   fontWeight: FontWeight.bold,
@@ -436,7 +436,7 @@ class FourthRoute extends StatelessWidget {
                 ),
               ),
               SizedBox(height: 20),
-              Text('COE',
+              Text('College Of Education',
                 style: TextStyle(
                   fontSize: 30,
                   fontWeight: FontWeight.bold,
@@ -592,7 +592,7 @@ class FifthRoute extends StatelessWidget {
                 ),
               ),
               SizedBox(height: 20),
-              Text('CBAE',
+              Text('College of Business Administration and Enterpreneurship',
                 style: TextStyle(
                   fontSize: 30,
                   fontWeight: FontWeight.bold,
@@ -680,5 +680,6 @@ class FifthRoute extends StatelessWidget {
     );
   }
 }
+
 
 
